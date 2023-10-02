@@ -1,0 +1,3 @@
+/home/hhh/Downloads/infrared_NUC_C_Fixed_2/CMakeFiles/infrared_NUC_C_Fixed_2.dir
+/home/hhh/Downloads/infrared_NUC_C_Fixed_2/CMakeFiles/edit_cache.dir
+/home/hhh/Downloads/infrared_NUC_C_Fixed_2/CMakeFiles/rebuild_cache.dir
